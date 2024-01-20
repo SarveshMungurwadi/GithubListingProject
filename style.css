@@ -1,0 +1,13 @@
+.card-img-top{
+    border-radius: 400px;
+    width:auto;
+    
+}
+#user-details{
+    
+    display: inline;
+   
+    align-items:end;
+    
+    
+}
